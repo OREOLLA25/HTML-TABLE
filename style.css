@@ -1,0 +1,11 @@
+ *{
+    color:black
+}
+body{
+    background-color:hsl(300, 100%, 50%);
+}
+/* body {
+    background-image: url("./media/bg.jpg");
+    background-size: cover;
+    background-position: top;
+} */
